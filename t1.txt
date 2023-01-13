@@ -1,1 +1,3 @@
 hi t1
+
+// git push origin -d <branch>
